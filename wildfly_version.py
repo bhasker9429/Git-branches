@@ -1,6 +1,6 @@
 # Define your hardcoded WildFly version info
 wildfly_versions = {
-    "36.0.0.Final",
+    "37.0.0.Final",
 }
 
 # Select the target environment
