@@ -4,7 +4,7 @@ wildfly_versions = {
 }
 
 # Select the target environment
-env = "dev"
+env = "dev,test"
 
 # Access the version
 if env in wildfly_versions:
